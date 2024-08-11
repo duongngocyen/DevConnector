@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://duongngocyen:theUniversalPassword@devconnector.vth1jo1.mongodb.net/?retryWrites=true&w=majority",
+  "jwtsecret": "mysecrettoken",
+  "githubClientId": "c7ce4134845da89a5a8d",
+  "githubSecret": "23ba7541f6cb86f71850e7c62b5030913eadfa87"
+}
